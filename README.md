@@ -62,7 +62,7 @@ Now, edit the `.env` file with your PostgreSQL database connection details:
 DB_USER=myuser
 DB_HOST=localhost
 DB_DATABASE=bakery_db
-DB_PASSWORD=chj581103
+DB_PASSWORD=mypassword
 DB_PORT=5432
 ```
 
